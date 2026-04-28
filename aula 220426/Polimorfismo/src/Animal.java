@@ -35,7 +35,7 @@ public class Animal {
    }
 
    public String toString(){
-    return "Nome: "+this.nome+"\nPatas: "+this.patas+"\nVelocidade: "+this.velocidade+"\n Localização: "+this.localizacao;
+    return "[Nome: "+this.nome+"||Patas: "+this.patas+"||Velocidade: "+this.velocidade+"|| Localização: "+this.localizacao+"]";
    }
 
    
